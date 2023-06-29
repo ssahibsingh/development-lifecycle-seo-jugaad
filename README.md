@@ -1,4 +1,4 @@
-# Web App development with Flask, SEO, and Coding Tricks (JUGAADS)
+# Product Development Lifecycle, SEO, and Coding Tricks (JUGAAD)
 
 ## Resources
 * Github Repository | [Click Here](https://github.com/ssahibsingh/tss-day26-flask-and-shortcuts)
