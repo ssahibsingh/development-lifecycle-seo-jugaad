@@ -1,0 +1,3 @@
+0 Victory
+1 Thumbs Up
+2 Thumbs Down
