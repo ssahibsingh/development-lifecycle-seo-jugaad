@@ -6,6 +6,7 @@
 * Google Search Console | [Click Here](https://search.google.com/search-console/about)
 * Microsoft Clarity | [Click Here](https://clarity.microsoft.com/)
 * Image Bot | [Click Here](https://imgbot.net/)
+* PageSpeed Insights | [Click Here](https://pagespeed.web.dev/)
 
 ## Content
 [Download Link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/ssahibsingh/development-lifecycle-seo-jugaad/tree/main/flask)
