@@ -5,7 +5,7 @@
     <li>Go to <a href="https://repo.new">repo.new</a></li>
     <li>Create a repo with a name: <b>{your-username}.github.io</b>. e.g. My GitHub Username: <b>ssahibsingh</b>, So repo name: <b>ssahibsingh.github.io</b></li>
     <li>Upload all the content of your portfolio in that</li>
-    <li>Go to settings and enable github pages</li>
+    <li>Go to settings and enable github pages, select branch from which you want to deploy and click on save</li>
 </ol>
 
 <h2>Online Code Editor</h2>
